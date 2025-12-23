@@ -1,5 +1,6 @@
 🛡️ Relatório Técnico de Pentest: OWASP Broken Web Apps
-
+ Pentest de Infraestrutura (Network Pentest) completo com sucesso.
+ 
 Data: 23/12/2025 Analista: marcos leal Alvo: OWASP BWA (IP: 10.x.x.x / 10.x.x.x) Classificação de Risco: 🔴 CRÍTICO
 1. Sumário Executivo
 
